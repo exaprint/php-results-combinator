@@ -1,0 +1,16 @@
+{
+    "name": "rbm/php-results-combinator",
+    "description": "combine rows",
+    "minimum-stability": "dev",
+    "licence": "MIT",
+    "authors": [
+        {
+            "name": "Romain Bessuges-Meusy",
+            "email": "romainbessuges@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-0": { "RBM": "lib/." }
+    }
+}
